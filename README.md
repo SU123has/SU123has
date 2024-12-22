@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **suhas987kumardey@gmail.com**
 
-<h3 align="left">Connect with me: [LinkedIn] (https://www.linkedin.com/in/suhas-kumar-dey-775203229/)</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/suhas-kumar-dey-775203229/" target="_blank">LinkedIn</a></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
